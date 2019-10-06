@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/mmcdole/gofeed/atom"
-	"github.com/mmcdole/gofeed/rss"
+	"github.com/varmamsp/gofeed/atom"
+	"github.com/varmamsp/gofeed/rss"
 )
 
 // ErrFeedTypeNotDetected is returned when the detection system can not figure
