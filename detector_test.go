@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/varmamsp/gofeed"
 	"github.com/stretchr/testify/assert"
+	"github.com/varmamsp/gofeed"
 )
 
 func TestDetectFeedType(t *testing.T) {

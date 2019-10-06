@@ -5,9 +5,9 @@ import (
 	"io"
 	"strings"
 
+	xpp "github.com/mmcdole/goxpp"
 	ext "github.com/varmamsp/gofeed/extensions"
 	"github.com/varmamsp/gofeed/internal/shared"
-	xpp "github.com/mmcdole/goxpp"
 )
 
 // Parser is a RSS Parser

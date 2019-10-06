@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/varmamsp/gofeed"
 	"github.com/stretchr/testify/assert"
+	"github.com/varmamsp/gofeed"
 )
 
 func TestITunes_Extensions(t *testing.T) {

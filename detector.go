@@ -4,8 +4,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/varmamsp/gofeed/internal/shared"
 	xpp "github.com/mmcdole/goxpp"
+	"github.com/varmamsp/gofeed/internal/shared"
 )
 
 // FeedType represents one of the possible feed

@@ -9,10 +9,10 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/stretchr/testify/assert"
 	"github.com/varmamsp/gofeed"
 	"github.com/varmamsp/gofeed/atom"
 	"github.com/varmamsp/gofeed/rss"
-	"github.com/stretchr/testify/assert"
 )
 
 func TestDefaultRSSTranslator_Translate(t *testing.T) {
